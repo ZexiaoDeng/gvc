@@ -6,7 +6,7 @@ Tuy concave cuts for outer approximation
 
 局部优化技术
 
-gamma concave cuts
+Tuy concave cuts or gamma valid cuts
 
 outer approximation
 
